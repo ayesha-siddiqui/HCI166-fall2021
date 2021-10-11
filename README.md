@@ -7,5 +7,5 @@
 ## INTRODUCTION
 Assalam u alaikum. Its Ayesha Siddiqui. I am doing my bachelors in BSCS from PAF-KIET and its my seven semester. my hobbies are painting, cycling and helping needy person. my long term goal is to become a web developer InshaAllah. 
 
-##INTRODUCTION
+## INTRODUCTION
 Assalam O Alaikum. It's Shah Muhammad Azhar and I am currently Doing BSCS from PAF-KIET in 7th Semester.Hobbies: Sketching,Notes Writing, Fitness. Want to become a good Software programmer in Future InshaAllah.
