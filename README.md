@@ -5,4 +5,4 @@
 ### Azhar Khan ()
 
 ## INTRODUCTION
-Assalam u alaikum. Its Ayesha Siddiqui. I am doing my bachelors in BSCS from PAF-KIET and its my seven semester. 
+Assalam u alaikum. Its Ayesha Siddiqui. I am doing my bachelors in BSCS from PAF-KIET and its my seven semester. my hobbies are painting, cycling and helping needy person. my long term goal is to become a web developer InshaAllah. 
