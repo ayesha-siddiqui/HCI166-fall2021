@@ -1,3 +1,3 @@
 ## BRAIN STORMING
 
-![](IdeaGeneration/pic1.jpeg)
+![](pic1.jpeg)
