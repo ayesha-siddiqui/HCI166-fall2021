@@ -12,5 +12,6 @@
 
 ## BRAIN STORMING SESSION PICTURE
 
+![](pic5.jpg)
 
 ## REFERENCES
