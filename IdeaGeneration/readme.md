@@ -1,2 +1,3 @@
-<img src="bs.jpeg" width="200"/>
+![](bs.jpeg)
+
 
