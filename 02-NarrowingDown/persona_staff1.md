@@ -1,1 +1,1 @@
-![](persona_staff1.jpg)
+![](persona_staff1.jpeg)
