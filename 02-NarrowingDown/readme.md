@@ -14,3 +14,4 @@ StdID | Name
 Distance learning and Support (zoom, team)
 
 ## REASON
+According to us, this the final best idea for underpriviliged school. As this is the modern technology era, mostly every person has their personal mobiles or some device. During pandemic, they all can communicate with eachother via zoom meeting and can overcome fastly. On the other hand, when we talk about how student will manage, so their parents may have cell phones, from their they can help their children to attend the class online.
