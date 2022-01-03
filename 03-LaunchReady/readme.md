@@ -5,3 +5,5 @@ StdID | Name
 **63706** | **Syed Muhammad Faique Raza** <!--this is the group leader in bold-->
 62822 | Shah Muhammad Azhar
 <!-- Replace name and student ids with acutally group member names and ids-->
+
+### HOW WE FINALIZED PAPER PROTOTYPE
