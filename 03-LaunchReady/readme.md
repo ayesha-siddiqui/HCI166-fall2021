@@ -32,10 +32,10 @@ Our design fulfill the discoveribility principle, it is simple to use and every 
 <br/>
 ### STUDENT
 ![01](https://user-images.githubusercontent.com/39101501/147947366-8d7ebc8e-5223-4d9a-9582-8e7019245d53.PNG)
-![05](https://user-images.githubusercontent.com/39101501/147947370-c0fbe6cb-6383-4573-99b8-7f1ce433aedf.PNG)
-![04](https://user-images.githubusercontent.com/39101501/147947371-903c6d80-fad1-43be-ad5d-64ee290b10e9.PNG)
-![03](https://user-images.githubusercontent.com/39101501/147947374-c5c57931-e3ce-48da-9051-c707eaf6fff4.PNG)
 ![02](https://user-images.githubusercontent.com/39101501/147947379-1433444c-defd-4532-9e69-1c821e551cb1.PNG)
+![03](https://user-images.githubusercontent.com/39101501/147947374-c5c57931-e3ce-48da-9051-c707eaf6fff4.PNG)
+![04](https://user-images.githubusercontent.com/39101501/147947371-903c6d80-fad1-43be-ad5d-64ee290b10e9.PNG)
+![05](https://user-images.githubusercontent.com/39101501/147947370-c0fbe6cb-6383-4573-99b8-7f1ce433aedf.PNG)
 <br/>
 ### TEACHER
 ![1](https://user-images.githubusercontent.com/73800301/147948111-09a2117c-15da-41b6-b97d-6a21761b4f1d.PNG)
