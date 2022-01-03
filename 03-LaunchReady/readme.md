@@ -39,11 +39,11 @@ Our design fulfill the discoveribility principle, it is simple to use and every 
 <br/>
 ### TEACHER
 ![1](https://user-images.githubusercontent.com/73800301/147948111-09a2117c-15da-41b6-b97d-6a21761b4f1d.PNG)
-![2](https://user-images.githubusercontent.com/73800301/147948112-dbc09e8e-62d1-4d23-b3c4-416b80c20bd9.PNG)
-![3](https://user-images.githubusercontent.com/73800301/147948090-330279e1-b85e-46ac-a8e1-11c311fd6be4.PNG)
-![4](https://user-images.githubusercontent.com/73800301/147948094-54555e80-3552-432a-960b-dd0189adae54.PNG)
-![5](https://user-images.githubusercontent.com/73800301/147948096-6ae24b12-b34d-493a-837e-eade3cf5a8ae.PNG)
-![6](https://user-images.githubusercontent.com/73800301/147948098-7f5e3e7d-e12a-4cd5-818f-2ae37ccec9d1.PNG)
-![7](https://user-images.githubusercontent.com/73800301/147948103-6acdd90f-4e40-4697-a9e8-41996c82f711.PNG)
-![8](https://user-images.githubusercontent.com/73800301/147948105-d1c31363-096c-44d3-a79e-ed1cff809167.PNG)
-![9](https://user-images.githubusercontent.com/73800301/147948108-6ddd6b42-320f-4a30-9741-9b785075b491.PNG)
+![2](https://user-images.githubusercontent.com/73800301/147948112-dbc09e8e-62d1-4d23-b3c4-416b80c20bd9.PNG)<br/>
+![3](https://user-images.githubusercontent.com/73800301/147948090-330279e1-b85e-46ac-a8e1-11c311fd6be4.PNG)<br/>
+![4](https://user-images.githubusercontent.com/73800301/147948094-54555e80-3552-432a-960b-dd0189adae54.PNG)<br/>
+![5](https://user-images.githubusercontent.com/73800301/147948096-6ae24b12-b34d-493a-837e-eade3cf5a8ae.PNG)<br/>
+![6](https://user-images.githubusercontent.com/73800301/147948098-7f5e3e7d-e12a-4cd5-818f-2ae37ccec9d1.PNG)<br/>
+![7](https://user-images.githubusercontent.com/73800301/147948103-6acdd90f-4e40-4697-a9e8-41996c82f711.PNG)<br/>
+![8](https://user-images.githubusercontent.com/73800301/147948105-d1c31363-096c-44d3-a79e-ed1cff809167.PNG)<br/>
+![9](https://user-images.githubusercontent.com/73800301/147948108-6ddd6b42-320f-4a30-9741-9b785075b491.PNG)<br/>
