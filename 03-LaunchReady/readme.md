@@ -18,7 +18,7 @@ Our second approach was to implement the prototypes on digital wireframe or any 
 ### HOW OUR DESIGN FULFILL THE GUIDELINES, RULES AND HEURISTICS
 Our design fulfill the discoveribility principle, it is simple to use and every feature is visible to user. This application is flexile for all users. Teachers have rights to allow students or remove those students from the meeting who make disturbance in class. The environment of the application is user friendly. Taleem Ghar application adopt all the necessary features that should be their for low level folks, which help them to use these kind of application quickly. In this application, students and teacher can easily check their classes schedule. Whereas, admin can view all the information of teacher and student and can resolve the parents queries as well. 
 
-### Admin
+### ADMIN
 ![1](https://user-images.githubusercontent.com/61629843/147946339-1ae96ef6-b053-4d43-b85e-8a3082ce86d2.PNG) 
 ![2](https://user-images.githubusercontent.com/61629843/147946378-2ec9ca48-693f-4fb0-8432-b2abbbe1f186.PNG)
 ![3](https://user-images.githubusercontent.com/61629843/147946398-32ac738d-29a3-419c-9c1f-fc507f287bb5.PNG)<br/>
@@ -30,14 +30,14 @@ Our design fulfill the discoveribility principle, it is simple to use and every 
 ![9](https://user-images.githubusercontent.com/61629843/147947059-5cd5a796-3828-4fd6-9ecf-36754aab571b.PNG)<br/>
 ![10](https://user-images.githubusercontent.com/61629843/147947065-204015f7-e80d-49ee-bee0-df67e0ee9851.PNG)<br/>
 <br/>
-### Student
+### STUDENT
 ![01](https://user-images.githubusercontent.com/39101501/147947366-8d7ebc8e-5223-4d9a-9582-8e7019245d53.PNG)
 ![05](https://user-images.githubusercontent.com/39101501/147947370-c0fbe6cb-6383-4573-99b8-7f1ce433aedf.PNG)
 ![04](https://user-images.githubusercontent.com/39101501/147947371-903c6d80-fad1-43be-ad5d-64ee290b10e9.PNG)
 ![03](https://user-images.githubusercontent.com/39101501/147947374-c5c57931-e3ce-48da-9051-c707eaf6fff4.PNG)
 ![02](https://user-images.githubusercontent.com/39101501/147947379-1433444c-defd-4532-9e69-1c821e551cb1.PNG)
 <br/>
-### Teacher
+### TEACHER
 ![1](https://user-images.githubusercontent.com/73800301/147948111-09a2117c-15da-41b6-b97d-6a21761b4f1d.PNG)
 ![2](https://user-images.githubusercontent.com/73800301/147948112-dbc09e8e-62d1-4d23-b3c4-416b80c20bd9.PNG)
 ![3](https://user-images.githubusercontent.com/73800301/147948090-330279e1-b85e-46ac-a8e1-11c311fd6be4.PNG)
