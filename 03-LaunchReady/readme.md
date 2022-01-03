@@ -20,12 +20,17 @@ Our design fulfill the discoveribility principle, it is simple to use and every 
 
 ![1](https://user-images.githubusercontent.com/61629843/147946339-1ae96ef6-b053-4d43-b85e-8a3082ce86d2.PNG) 
 ![2](https://user-images.githubusercontent.com/61629843/147946378-2ec9ca48-693f-4fb0-8432-b2abbbe1f186.PNG)
-![3](https://user-images.githubusercontent.com/61629843/147946398-32ac738d-29a3-419c-9c1f-fc507f287bb5.PNG)<br/>
-![4](https://user-images.githubusercontent.com/61629843/147946405-7d6f2a47-70d4-44ca-9a17-987a61173cc1.PNG)<br/>
-![5](https://user-images.githubusercontent.com/61629843/147947024-01e0db4c-b82d-42c9-a141-72f417cfc4e1.PNG)<br/>
-![6](https://user-images.githubusercontent.com/61629843/147947032-a3538460-cecf-4065-9df8-6e8abe2c7333.PNG)<br/>
-![7](https://user-images.githubusercontent.com/61629843/147947036-1402efad-1e50-41d3-97df-f778a650bd85.PNG)<br/>
-![8](https://user-images.githubusercontent.com/61629843/147947041-5085c6c8-6a94-42e1-9efc-aea6ee5f05ea.PNG)<br/>
-![9](https://user-images.githubusercontent.com/61629843/147947059-5cd5a796-3828-4fd6-9ecf-36754aab571b.PNG)<br/>
-![10](https://user-images.githubusercontent.com/61629843/147947065-204015f7-e80d-49ee-bee0-df67e0ee9851.PNG)<br/>
+![3](https://user-images.githubusercontent.com/61629843/147946398-32ac738d-29a3-419c-9c1f-fc507f287bb5.PNG) <br/>
+![4](https://user-images.githubusercontent.com/61629843/147946405-7d6f2a47-70d4-44ca-9a17-987a61173cc1.PNG)
+![5](https://user-images.githubusercontent.com/61629843/147947024-01e0db4c-b82d-42c9-a141-72f417cfc4e1.PNG) <br/>
+![6](https://user-images.githubusercontent.com/61629843/147947032-a3538460-cecf-4065-9df8-6e8abe2c7333.PNG)
+![7](https://user-images.githubusercontent.com/61629843/147947036-1402efad-1e50-41d3-97df-f778a650bd85.PNG)
+![8](https://user-images.githubusercontent.com/61629843/147947041-5085c6c8-6a94-42e1-9efc-aea6ee5f05ea.PNG)
+![9](https://user-images.githubusercontent.com/61629843/147947059-5cd5a796-3828-4fd6-9ecf-36754aab571b.PNG) <br/>
+![10](https://user-images.githubusercontent.com/61629843/147947065-204015f7-e80d-49ee-bee0-df67e0ee9851.PNG)
 
+![01](https://user-images.githubusercontent.com/39101501/147947366-8d7ebc8e-5223-4d9a-9582-8e7019245d53.PNG)
+![05](https://user-images.githubusercontent.com/39101501/147947370-c0fbe6cb-6383-4573-99b8-7f1ce433aedf.PNG)
+![04](https://user-images.githubusercontent.com/39101501/147947371-903c6d80-fad1-43be-ad5d-64ee290b10e9.PNG)
+![03](https://user-images.githubusercontent.com/39101501/147947374-c5c57931-e3ce-48da-9051-c707eaf6fff4.PNG)
+![02](https://user-images.githubusercontent.com/39101501/147947379-1433444c-defd-4532-9e69-1c821e551cb1.PNG)
