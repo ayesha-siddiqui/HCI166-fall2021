@@ -12,4 +12,9 @@ Our second approach was to implement the prototypes on digital wireframe or any 
 
 ### EVALUATION TECHNIQUE 
 
+* Feedback Cycle
+* Experimental Technique
+
 ### HOW OUR DESIGN FULFILL THE GUIDELINES, RULES AND HEURISTICS
+
+
